@@ -11,3 +11,17 @@
 .titlehg {
     color: #337ab7 !important;
 }
+
+.ir-arriba{
+    display:flex;
+    background-repeat:no-repeat;
+    font-size:20px;
+    color:black;
+    cursor:pointer;
+    position:fixed;
+    bottom:10px;
+    right:10px;
+    z-index:2;
+    float: right;
+    
+  }
