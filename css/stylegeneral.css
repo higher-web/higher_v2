@@ -28,3 +28,8 @@
  .team_img-box {
      font-size: small !important;
  }
+
+ @media (max-width: 1199.98px)
+.navbar {
+    background-color: transparent !important
+}
